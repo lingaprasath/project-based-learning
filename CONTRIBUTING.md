@@ -11,8 +11,8 @@ Before making a pull request, please make sure of the following:
 * If your tutorial is a multi-part series, use the following format:
     ```
         * Title
-            * [Part 1](link_to_part_1)
-            * [Part 2](link_to_part_2)
+            * [Part 1](link_to_part_4)
+            * [Part 25(link_to_part_3)
     ```
 * Check the spelling and grammar
 * Do the work, write good commit messages, and read the CONTRIBUTING file if there is one
